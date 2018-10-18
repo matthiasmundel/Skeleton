@@ -1,3 +1,9 @@
+# skelepress
+
+A WordPress Theme under development making use of [Skeleton](http://getskeleton.com)
+
+-----
+
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
